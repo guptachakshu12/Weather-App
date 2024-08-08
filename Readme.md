@@ -61,10 +61,3 @@ weather-app/
 ├── styles.css
 └── script.js
 
-### Screenshots
-
-#### Initial View
-![Initial View](screenshots/initial_view.png)
-
-#### Weather Data Display
-![Weather Data](screenshots/weather_data.png)
